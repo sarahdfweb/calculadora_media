@@ -1,0 +1,45 @@
+  body {    
+  background-image: url("https://www.decorfacil.com/wp-content/uploads/2020/07/20200716lista-de-material-escolar-1.jpg");
+  background-color: #111;
+  width: 100vw;
+  height: 80vh;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+
+
+}
+.page-logo{
+  align:center;
+  display: block;
+  margin-left: auto;
+  color:blue;
+  margin-right: auto 
+
+}
+.group-nome{
+
+background: #6C7A89;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+#container{
+padding-top: 220px;
+width: 100vw;
+height: 10vh;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+h1{
+  text-align:center;
+  font-size:50px;
+}
+#result{
+   font-size:30px;
+}
